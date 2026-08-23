@@ -1,78 +1,65 @@
-<div align="center">
+# 👋 Hello, I'm **Md. Al-Zaber Hossain**
 
-# Hi 👋, I'm [Md. Al-ZABER HOSSAIN]
+A passionate **Back-End Developer** and a Computer Science graduate from **MBSTU**, specializing in crafting scalable, efficient, and user-centric software solutions.I enjoy building efficient, reliable, and maintainable software solutions tailored to real-world and client needs.
 
-### A passionate developer from [Dhaka, Bangladesh]
+I have solved 600+ coding challenges across online judges, which has strengthened my problem-solving, algorithmic thinking, and ability to approach complex engineering problems systematically.
 
-</div>
-
-## 🛠️ Skills & Technologies
-
-### 💻 Programming Languages
-
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)&nbsp;&nbsp;&nbsp;![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;&nbsp;&nbsp;![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;&nbsp;&nbsp;![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 💻 Frontend Development
-
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;&nbsp;&nbsp;![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;&nbsp;&nbsp;![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuejs&logoColor=white)
-
-### 💻 Framework
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;&nbsp;&nbsp;![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-### 💻 Other
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;&nbsp;&nbsp;![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-## 📊 GitHub Stats & Activity
-
-<div align="center">
-
-<!-- Visitor Count Badge: GitHub username required -->
-
-<!-- GitHub Trophy: GitHub username required -->
-
-<!-- GitHub Stats Card: GitHub username required -->
-
-<!-- Top Skills Card: GitHub username required -->
-
-<!-- GitHub Streak Stats: GitHub username required -->
-
-<!-- LeetCode Stats Card: LeetCode username required -->
-
-<!-- Twitter Badge: Twitter username required (provide in Social Links section) -->
-
-<!-- DEVTO_BLOG:START -->
-<!-- Repositories that create this section need to replace the URL with their own feed URL. -->
-<!-- It uses a GitHub Action to fetch and display recent posts. -->
-<!-- View https://github.com/gautamkrishnar/blog-post-workflow for setup. -->
-<!-- DEVTO_BLOG:END -->
-**Requires GitHub Action setup.** See [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow).
-
-<!-- MEDIUM_BLOG:START -->
-<!-- Repositories that create this section need to replace the URL with their own feed URL. -->
-<!-- It uses a GitHub Action to fetch and display recent posts. -->
-<!-- View https://github.com/gautamkrishnar/blog-post-workflow for setup. -->
-<!-- MEDIUM_BLOG:END -->
-**Requires GitHub Action setup.** See [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow).
-
-<!-- BLOG_POST_LIST:START -->
-<!-- Repositories that create this section need to replace the URL with their own feed URL. -->
-<!-- It uses a GitHub Action to fetch and display recent posts. -->
-<!-- View https://github.com/gautamkrishnar/blog-post-workflow for setup. -->
-<!-- BLOG_POST_LIST:END -->
-**Requires GitHub Action setup.** See [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow).
-
-</div>
+I enjoy exploring new technologies and transforming ideas into efficient, scalable solutions that create real-world value.
 
 ---
 
-<div align="center">
+## 🚀 **Technical Expertise**
 
-### 🎯 "Code is like humor. When you have to explain it, it's bad." – Cory House
+### Back-End Development  
+- **Frameworks:** Laravel, ASP. Net core
+- **APIs:** RESTful APIs, third-party API integration  
 
-**Thank you for visiting my profile! 😊**
+### Front-End Development  
+- **Technologies:** Vue.js, Blade (Laravel Templating Engine)
+- **CSS Frameworks:** Tailwind CSS  
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen&style=flat-square&label=Profile+Views)
+### Database Management  
+- **RDBMS:** MySQL
+- **Optimizations:** Query optimization, database schema design  
 
-</div>
+### Others  
+- **Tools:** Git, Docker, Postman, Composer  
+- **Methodologies:** Agile development
+
+---
+
+## 🌟 **What I Bring to the Table**  
+- Proficiency in designing and implementing back-end solutions that prioritize performance and scalability  
+- Hands-on experience in dynamic mailing systems, job queues, and database optimization  
+- Proven ability to manage multiple projects simultaneously, ensuring on-time delivery with high-quality outcomes  
+- Strong problem-solving abilities with a commitment to SOLID principles, ensuring clean, maintainable, and extensible code
+
+---
+
+## 🏆 **Achievements**
+
+<!-- - **Publication:**  
+  *Active & Idle Virtual Machine Migrations - A new Ant Colony Migration approach to consolidate Virtual machines and ensure Green Cloud Computing.*  
+  [DOI: 10.1109/ETCCE51779.2020.9350915](https://ieeexplore.ieee.org/document/9350915)   
+
+--- -->
+
+## 🎯 **Currently Exploring**  
+- Advanced database sharding techniques  
+- Optimizing API performance for large-scale applications  
+- Exploring Laravel 13 features  
+
+---
+
+## 🤝 **Let’s Collaborate**
+
+I am always open to collaborating on challenging projects or discussing innovative ideas. Whether it's a complex back-end system or a full-stack project, let's create something impactful together!
+
+- **Email:** [mdalzaberhossain30@gmail.com](mailto:mdalzaberhossain30@gmail.com)  
+- **LinkedIn:** [Md. Al-Zaber Hossain](https://www.linkedin.com/in/md-al-zaber-hossain-8a63073ab/)  
+- **GitHub:** [Zaber30](https://github.com/Zaber30)
+<!-- - **Portfolio:** [Visit](https://syrspondon.github.io/portfolio/) -->
+
+---
+
+Looking forward to building something amazing! 🌐✨
