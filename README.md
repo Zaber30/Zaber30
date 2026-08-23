@@ -36,7 +36,7 @@ I enjoy exploring new technologies and transforming ideas into efficient, scalab
 
 ---
 
-## 🏆 **Achievements**
+
 
 <!-- - **Publication:**  
   *Active & Idle Virtual Machine Migrations - A new Ant Colony Migration approach to consolidate Virtual machines and ensure Green Cloud Computing.*  
