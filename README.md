@@ -1,6 +1,6 @@
 # 👋 Hello, I'm **Md. Al-Zaber Hossain**
 
-A passionate **Back-End Developer** and a Computer Science graduate from **MBSTU**, specializing in crafting scalable, efficient, and user-centric software solutions.I enjoy building efficient, reliable, and maintainable software solutions tailored to real-world and client needs.
+A passionate  Full Stack Developer** and Computer Science graduate from **MBSTU**, specializing in crafting scalable, efficient, and user-centric software solutions.I enjoy building efficient, reliable, and maintainable software solutions tailored to real-world and client needs.
 
 I have solved 600+ coding challenges across online judges, which has strengthened my problem-solving, algorithmic thinking, and ability to approach complex engineering problems systematically.
 
