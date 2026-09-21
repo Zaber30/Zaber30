@@ -2,7 +2,7 @@
 
 **Backend-Focused Developer** and Computer Science graduate from **MBSTU**, specializing in crafting scalable, efficient, and user-centric software solutions.I enjoy building efficient, reliable, and maintainable software solutions tailored to real-world and client needs.
 
-I have solved 600+ coding challenges across online judges, which has strengthened my problem-solving, algorithmic thinking, and ability to approach complex engineering problems systematically.
+I have solved 550+ coding challenges across online judges, which has strengthened my problem-solving, algorithmic thinking, and ability to approach complex engineering problems systematically.
 
 I enjoy exploring new technologies and transforming ideas into efficient, scalable solutions that create real-world value.
 
